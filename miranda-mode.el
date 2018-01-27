@@ -12,6 +12,8 @@
 
 ;; This file is not officially part of GNU Emacs.
 
+;; License: GPL
+
 ;; GNU Emacs is distributed in the hope that it will be useful,
 ;; but WITHOUT ANY WARRANTY.  No author or distributor
 ;; accepts responsibility to anyone for the consequences of using it
